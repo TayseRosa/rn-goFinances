@@ -1027,10 +1027,10 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 ```js
 
     //Clonar o repositório
-    $ git clone https://github.com/TayseRosa/IgniteTrilhaReactJSChapterIIINextJS.git
+    $ git clone https://github.com/TayseRosa/rn-goFinances.git
 
     //Entrar no diretório
-    $ cd IgniteTrilhaReactJSChapterIIINextJS
+    $ cd rn-goFinances
 
     //Instalar dependências
     $ yarn install 
