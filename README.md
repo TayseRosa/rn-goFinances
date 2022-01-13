@@ -1036,7 +1036,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
     $ yarn install 
 
     //Startar o projeto
-    $yarn start
+    $ expo start
     
 
 ``` 
