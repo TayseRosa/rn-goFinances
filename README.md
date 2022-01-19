@@ -1005,6 +1005,9 @@ Em app.json:
 ... e ele começa a gerar a build...
 Fazer o download da build (.aab)
 
+### Gerador de icone online
+https://romannurik.github.io/AndroidAssetStudio/icons-app-shortcut.html#source.type=clipart&source.clipart=menu_book&source.space.trim=0&source.space.pad=0&name=icon_portfolio&foreColor=rgb(227%2C%20110%2C%20227)&backColor=rgb(245%2C%20245%2C%20245)
+
 ### Google Play Console
 - [x] Acessar: https://play.google.com/console/u/0/developers/8553590476945357151/app-list
 - [x] Clicar em CRIAR APP
