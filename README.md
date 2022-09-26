@@ -988,6 +988,7 @@ Em app.json:
       "buildNumber": "1.0.0"
     },
     "android": {
+      "permissions":[],
       "package": "com.gofinancestayserosa",
       "versionCode": 1
     }
